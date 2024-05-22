@@ -15,7 +15,7 @@
  * Dual licensed under the MIT and GPL licenses.
  */
 .syntaxhighlighter {
-  background-color: white !important;
+  background-color: rgb(255, 255, 255) !important;
   max-height:450px;
 }
 .syntaxhighlighter .line.alt1 {
